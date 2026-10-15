@@ -66,7 +66,7 @@ While entering text:
 |:q / :quit   |    Cancel and go back|
 
       
-On other ther screens:
+On other screens:
 
 | Command |Function|
 | --- |---|
