@@ -116,7 +116,7 @@ lighCrypt uses separate derived keys for encryption, authentication, salt protec
 
 **📜 License**
 
-*This project is licenced under MIT licence*
+*This project is licenced under MIT Licence*
 
 **👤 Author**
 
